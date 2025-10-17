@@ -1,0 +1,34 @@
+.CU-img-01{
+    background-image:linear-gradient(360deg, black, transparent),url(../public/cycle/full-image.jpg);
+    height: 100vh;
+    /* background-color: blue; */
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.CU-img-01 h1{
+    color: white;
+    font-size: 100px;
+    position: relative;
+    top: 35%;
+    left: 1%;
+}
+.CU-alin-00{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.CU-alin-00 p{
+    font-size: 18px;
+    font-weight: 500;
+
+}
+.CU-CL-00{
+     color: rgba(206, 26, 26, 0.922);
+     margin-bottom: 10px;
+}
+.CU-FM-00{
+    padding-left: 5%;
+    padding-right: 5%;
+}

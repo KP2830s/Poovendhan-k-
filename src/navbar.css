@@ -1,0 +1,29 @@
+
+
+.BG-nav-00{
+    background-image: linear-gradient(274deg, black,#f11c1cab, black);
+    color: white;
+}
+.NAV-fs-00{
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.Nav-01{
+    color: white;
+}
+button.NB-log\.in.btn.btn-outline-danger {
+    margin-right: 41px;
+    font-size: 14px;
+    font-weight: 700;
+}
+.cartcount{
+    margin: 0px;
+    background-color: white;
+    padding: 0px 7px;
+    border-radius: 50%;
+    font-size: 18px;
+    position: absolute;
+    right: 2px;
+    top: 15px;
+}

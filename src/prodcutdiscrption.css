@@ -1,0 +1,41 @@
+.PD-mian-aline{
+    padding: 16px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+.PD-Card-btn{
+    font-size: 16px; 
+    font-weight: 600;
+}
+
+.RF-00{
+     border: .5px solid black;
+     padding: 25px;
+     color: rgb(75, 75, 75);
+
+}
+.label-aree{
+    padding-left: 10px;
+}
+
+.RF-00 p{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+input{
+    border:solid 1px black;
+    padding-right: 40%;
+    margin: 0px;
+}
+.RF-00 label{
+    font-size: 19px;
+    font-weight: 500;
+}
+
+
+body{
+    background-color: rgb(239, 239, 239);
+}

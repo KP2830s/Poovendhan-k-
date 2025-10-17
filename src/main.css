@@ -1,0 +1,307 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Adamina&family=Ancizar+Serif:ital,wght@0,300..900;1,300..900&family=Anton&family=Arbutus+Slab&family=Caprasimo&family=Gravitas+One&family=Lilita+One&family=Modak&family=UoqMunThenKhung&display=swap');
+body{
+    overflow-x: hidden;
+}
+  .FM-1{
+    background-image: linear-gradient(
+        90deg,
+        #000000be 50%,  /* blue */
+        #ff000050 50%   /* white */),url(../public/cycle/nav-1.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    padding-left: 76px;
+    padding-top: 57px;
+  }
+  .SC-tl-2{
+    font-family: "Lilita One", sans-serif;
+      font-size: 30px;
+      margin-bottom: 40px;
+  }
+  .SC-tl-1{
+    font-size:90px;
+    font-family: "Anton", sans-serif;
+    margin-bottom: 35px;
+  }
+  .SC-tl{
+    font-size:90px;
+    margin-bottom: 40px;
+  }
+  .SC-li li{
+    font-family: "UoqMunThenKhung", serif;
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  .btn-danger{
+    padding: 10px 30px;
+    margin-top: 30px;
+  }
+  .c1{
+    padding: 10px 30px;
+    
+  }
+  /* CD-G1-0 */
+  .CD-G1-00{
+    margin: 50px;
+    padding: 60px;
+  }
+  .CD-G1-0{
+    font-family: "Abril Fatface", serif;
+    font-size: 50px;
+    margin-bottom: 60px;
+    text-align: center;
+  }
+  /* Silder */
+  .bg-img-1{
+    background-image: linear-gradient(360deg, black, transparent),
+    url(../public/cycle/city-bike-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    color: white;
+    padding-top: 100px;
+    padding-left: 100px;
+    
+   
+  }
+  .bg-img-1 h3{
+        font-size: 25px;
+        font-family: "Gravitas One", serif;
+        margin-bottom: 40px
+  }
+  .bg-img-1 h4{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    margin-bottom: 40px
+  }
+  .bg-img-1 p{
+    font-size: 20px;
+    font-weight: 500;
+    padding-right: 582px;
+    margin-bottom: 55px
+  }
+  .SL-li{
+    display: flex;
+  }
+  .SC-li ul{
+    margin-left: 20px;
+  }
+  .bg-img-2{
+    background-image: linear-gradient(360deg, black, transparent),
+    url(../public/cycle/city-bike-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    color: white;
+    padding-top: 100px;
+    padding-left: 100px;
+   
+  }
+  .bg-img-2 h3{
+    font-size: 25px;
+    font-family: "Gravitas One", serif;
+    margin-bottom: 40px
+}
+.bg-img-2 h4{
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 600;
+margin-bottom: 40px
+}
+.bg-img-2 p{
+font-size: 20px;
+font-weight: 500;
+padding-right: 582px;
+margin-bottom: 55px
+}
+  .bg-img-3{
+    background-image: linear-gradient(360deg, black, transparent),
+    url(../public/cycle/city-bike.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    color: white;
+    padding-top: 100px;
+    padding-left: 100px;
+
+   
+  }
+  .bg-img-3 h3{
+    font-size: 25px;
+    font-family: "Gravitas One", serif;
+    margin-bottom: 40px
+}
+.bg-img-3 h4{
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 600;
+margin-bottom: 40px
+}
+.bg-img-3 p{
+font-size: 20px;
+font-weight: 500;
+
+/* padding-right: 582px; */
+margin-bottom: 55px
+}
+.bg-img-01{
+    background-image: black;
+}
+/* BG-IMG-02 */
+.bg-img-02{
+ text-align: center;
+ color: rgb(255, 255, 255);
+ margin: 96px;
+}
+.bg-img-02 h2{
+    padding-top: 60px;
+}
+.bg-img-21{
+    background-image: linear-gradient(630deg,#000000db,#000000b3),
+    url(../public/cycle/ppp1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:50vh;
+    width: 50px;
+    margin: 10px;
+}
+.bg-img-22{
+    background-image: linear-gradient(630deg,#000000db,#000000b3),
+    url(../public/cycle/ppp2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:50vh;
+    width: 50px;
+    margin: 10px;
+}
+.bg-img-23{
+    background-image: linear-gradient(630deg,#000000db,#000000b3),
+    url(../public/cycle/ppp3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:45vh;
+    width: 50px;
+    margin: 10px;
+}
+.bg-img-24{
+    background-image: linear-gradient(630deg,#000000db,#000000b3),
+    url(../public/cycle/ppp4.jpg);
+        background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:45vh;
+    width: 50px;
+    margin: 10px;
+}
+.bg-img-25{
+   
+    background-image: linear-gradient(630deg,#000000db,#000000b3),
+    url(../public/cycle/ppp5.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:45vh;
+    width: 50px;
+    margin: 10px;
+}
+/* CD-img-02 */
+.CD-img-02{
+    text-align: center;
+    margin-bottom: 90px;
+}
+.CD-img-02 h1{
+    font-family: "Abril Fatface", serif;
+    font-size: 50px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+/* Last-part */
+.LM-part{
+    text-align: center;
+}
+.LM-part h1{
+    font-family: "Abril Fatface", serif;
+    font-size: 50px;
+    margin-bottom: 35px;
+}
+.LM-part01{
+    background-image: url(../public/cycle/full-image.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-right: 120px;
+    margin-left: 120px;
+    margin-bottom: 60px;
+
+}
+/* .LM-alin{
+    /* text-align: center; */
+ 
+.LM-alin h3{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.LM-alin p{
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 20px;
+    padding-left: 99px;
+    padding-right: 50px;
+    margin-bottom: 40px;
+
+}
+Card.Image{
+    height: 70vh;
+}
+.MN-icon-00{
+  padding-right: 10px;
+}
+.bg-center-00{
+  text-align: center;
+}
+.bg-center-00 p{
+  padding: 79px;
+  padding-top: 0;
+}
+/* card function */
+.image-container {
+  position: relative;
+}
+
+.overlay-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: 0.3s ease;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.image-container:hover .overlay-icon {
+  opacity: 1;
+}
+
+.hover-icon-00 {
+  width: 100%;
+  display: block;
+}

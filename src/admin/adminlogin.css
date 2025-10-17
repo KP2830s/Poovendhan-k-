@@ -1,0 +1,27 @@
+.loginpage{
+    background-color: white;
+    border-radius: 47px;
+    padding: 40px;
+    text-align: center;
+    margin: 53px 444px;
+}
+form{
+    display: inline-grid;
+}
+.adminbox{
+    width: 334px;
+    padding: 9px;
+    margin-top: 11px;
+}
+.aminlable{
+    margin: 0px;
+    /* float: left; */
+    margin-top: 10px;
+    margin-right: 251px;
+}
+.adminsubmit{
+    background-color: #bf2424;
+    font-size: 20px;
+    color: white;
+    margin-top: 25px;
+}

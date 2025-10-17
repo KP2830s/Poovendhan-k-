@@ -1,0 +1,32 @@
+{
+    "BicycleData" : [
+        {
+          "id": 1,
+          "name": "Kroy X26 MTB - Model K",
+          "price": "$350.00",
+          "image": "/cycle/bicycle-1.jpg"
+        },
+        {
+          "id": 2,
+          "name": "XTR Pro Offroad 29",
+          "price": "$480.00",
+          "image": "/cycle/bicycle-7.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Urban Glide 21-Speed",
+          "price": "$420.00",
+          "image": "/cycle/bicycle-5.jpg"
+        },
+        {
+          "id": 4,
+          "name": "RoadRider Carbon 700C",
+          "price": "$899.00",
+          "image": "/cycle/bicycle-4.jpg"
+        }
+      
+      ]
+      
+   
+}
+

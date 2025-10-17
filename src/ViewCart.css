@@ -1,0 +1,53 @@
+table{
+    border: 1px solid black;
+}
+tbody{
+    border: 1px solid black;
+}
+.VC-icon{
+    width: 137px;
+    font-size: 25px;
+}
+.VC-icon:hover{
+    color: red;
+}
+.row-00{
+    /* align-items: center; */
+    /* justify-content: center;
+    justify-items: center;
+    display: grid;
+    margin-top: 40px;
+    margin-bottom: 40px; */
+    /* margin: 96px; */
+    padding: 78px;
+}
+.col-00{
+    display: grid;
+}
+td{
+    width: 137px;
+}
+.PD-name{
+    width: 328px;
+}
+.PD-price{
+    padding-left: 24px;
+}
+th{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.BG-CL{
+    background-color: white;
+    margin-bottom: 79px;
+    margin-top: 67px;
+}
+.TLP-00{
+    padding-right: 49px;
+    font-weight: 700;
+}
+.TLT-00{
+   
+    padding: 30px 54px;
+    font-weight: 700;
+}

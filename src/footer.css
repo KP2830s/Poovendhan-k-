@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Adamina&family=Ancizar+Serif:ital,wght@0,300..900;1,300..900&family=Anton&family=Arbutus+Slab&family=Caprasimo&family=Lilita+One&display=swap');.footer-01{
+    background-color: black;
+    color: white;
+}
+.footer-container-01{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.CR{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+}
+.CR-icon-01{
+    position: relative;
+    left: 72%;
+}
+.CR-icon-00{
+    padding: 10px;
+    padding-top: 0px;
+}
+
+.footer-icon{
+    width: 50%;
+}
+ul{
+    padding: 0;
+}
+li{
+    list-style: none;
+    padding: 5px;
+    font-weight: 600;
+    
+}
+h2{
+    font-family: "Abril Fatface", serif;
+    font-weight: 600;
+
+    font-size: 25px;
+}

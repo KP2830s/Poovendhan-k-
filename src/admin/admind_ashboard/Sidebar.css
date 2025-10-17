@@ -1,0 +1,22 @@
+.sidebar {
+    border-right: 1px solid #dee2e6;
+  }
+  .sidebar a {
+    color: #000000;
+    font-weight: 500;
+  }
+  .sidebar a:hover {
+    background-color: #f0c6c6;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: all 500ms;
+    color: rgb(206, 38, 38);
+  }
+  .AN-00{
+
+    font-family: "Abril Fatface", serif;
+    color: rgb(206, 38, 38);
+  }
+  .AN-icon{
+    padding-right: 10px;
+  }
